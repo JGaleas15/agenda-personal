@@ -22,5 +22,18 @@ Instalar la librería:
 
 ```bash
 pip install tkcalendar
+## Evidencias
+
+### Inicio del programa
+![Inicio](capturas/Prueba1 inicia del programa.png)
+
+### Agregar evento
+![Agregar](capturas/prueba2 ejecucion del programa y agregar evento.png)
+
+### Eliminar evento
+![Eliminar](capturas/prueba3 eliminar evento.png)
+
+### Evento eliminado
+![Eliminado](capturas/prueba4 evento eliminado.png)
 ## Autor
 Jefferson Galeas
